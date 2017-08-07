@@ -1,4 +1,4 @@
-# Présentation de l'addition (fin GS, CP)
+# ADDITION
 
 ## Materiel
 banque
