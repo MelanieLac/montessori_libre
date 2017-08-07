@@ -1,4 +1,14 @@
-CC-BY-SA Mélanie Lacayrouze
+<!--
+
+---
+title: Addition 5-8 ans
+description: Cours Montessori addition 5-8 ans
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
 
 # ADDITION
 
