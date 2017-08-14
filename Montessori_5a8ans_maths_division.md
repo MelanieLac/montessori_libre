@@ -170,7 +170,7 @@ Progression
 Petite division statique avec timbres et lignes hiérarchiques
 =============================================================
 
-\_\_ On va entrer dans l'écriture de la division\_\_
+__On va entrer dans l'écriture de la division__
 
 Matériel
 --------
@@ -207,7 +207,7 @@ Petite division dynamique avec les timbres, avec reste
 
 7558 : 3 Même protocole avec échanges nécessaires Milliers : on peut en donner 2, il en reste un On le change en dix centaines, avec les 5 centaines ça fait 15 centaines... On commence par le calcul sur le papier et on manipule ensuite avec les timbres etc. Sur le tableau : dividende // diviseur // quotient // reste, on note l'opération avec le reste
 
-\_\_ l'e est suffisamment entraîne et a mémorisé les tables de multiplication. Il anticipe le résultat, et le vérifie avec la manip et la soustraction posée dans la division. La manipulation des timbres permet une vision globale de la répartition du nb initial en (ici) 3 unités.\_\_ On peut varier les diviseurs 4, 5...
+__ l'e est suffisamment entraîne et a mémorisé les tables de multiplication. Il anticipe le résultat, et le vérifie avec la manip et la soustraction posée dans la division. La manipulation des timbres permet une vision globale de la répartition du nb initial en (ici) 3 unités.__ On peut varier les diviseurs 4, 5...
 
 Grande division (dynamique) avec la banque
 ==========================================
