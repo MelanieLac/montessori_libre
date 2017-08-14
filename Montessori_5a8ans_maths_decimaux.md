@@ -108,3 +108,9 @@ Addition de décimaux sans puis avec retenue
 +  05013,45
 
    22235,71
+
+
+![](images/decimaux_tabdeconvetcalcul.jpg)
+![](images/decimaux_tableaudeconv0.1.jpg)
+![](images/decimaux_tableaudeconv0.001.jpg)
+![](images/decimaux_tableaudeconvecriture.jpg)
