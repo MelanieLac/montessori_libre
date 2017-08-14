@@ -294,3 +294,18 @@ __Ce qui est intéressant avec cette méthode Montessori et l'outil du damier, c
 Dès que l'e à fait les multiplications avec les perles, il passe aux multiplications par 10.
 
 
+![](images/multi_damier.jpg)
+![](images/multi_damiera2chffres.jpg)
+![](images/multi_damieravresultat.jpg)
+![](images/multi_equivalencesurface.jpg)
+![](images/multi_plateauxetperles.jpg)
+![](images/multi_ppcm.jpg)
+![](images/multi_tabledepythagoreencarre.jpg)
+![](images/multi_tabledepythagoreenligne.jpg)
+![](images/multi_tabledoigtsrenseignee.jpg)
+![](images/multi_tablepythagoreencolonne.jpg)
+![](images/multi_tablesavperles.jpg)
+![](images/multi_timbres.jpg)
+![](images/multi_timbresavecligneshierarchiques.jpg)
+
+
