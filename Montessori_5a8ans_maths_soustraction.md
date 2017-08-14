@@ -252,5 +252,10 @@ problèmes élémentaires mobilisant addition et soustraction
 ex : il y avait 20 livres sur une étagère, il en reste 17. combien a-t-il enlevé ?
 
  
-
-CC-BY-SA Mélanie Lacayrouze & Georges Madar, 2017
+![](images/soust_materielbarresrougesbleuesblanches.jpg)
+![](images/soust_plateauxetperles.jpg)
+![](images/soust_resultatavbarresrougesbleuesblanches.jpg)
+![](images/soust_serpent.jpg)
+![](images/soust_tabledoigtsnonrenseignee.jpg)
+![](images/soust_tabledoigtsrenseignee.jpg)
+![](images/soust_timbres.jpg)
