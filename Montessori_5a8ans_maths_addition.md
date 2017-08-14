@@ -26,6 +26,8 @@ tu vas me construire ce nombre (donné par l'adulte, avec 4 étiquettes séparé
 
 - Le balluchon de l'addition :  on réunit 3 grands nombres dans un balluchon, on constate que c'est lourd.
 
+![](images/addition_balluchon.jpg)
+
 - Finalisation on transcrit le nombre avec les grandes étiquettes un dix, deux dix,… huit dix ... pas nécessaire d’avoir fait les tables de Séguin
 regarde : sur ton plateau il y avait ça on a ajouté celui-là et celui -là quand on ajoute on met le signe + on arrive à l'écriture : 3233 + 4312 + 2143 = 9688
 S'il manque une unité d'un rang on ne corrige pas
@@ -69,6 +71,7 @@ Vérification
 ------------
 
 on va regarder si le serpent à la même longueur. Mettre les barrettes dorées en position Maintenant on va regarder si on ne s'est pas trompé en comptant les perles : On arrive à 9+1=10, 8+2=10...
+![](images/addition_serpent dore.jpg)
 
 Serpent niveau 2 - serpent positif avec change
 ==============================================
@@ -90,6 +93,7 @@ vérification
 ------------
 
 on va regarder si le serpent à la même longueur. mettre les barrettes dorées en position verticale Maintenant on va regarder si on ne s'est pas trompé en comptant les perles : On aligne les perles de l'ancien serpent sur les dizaines du nouveau On arrive à 9 contre 10, mais comme on n'a pas de 1 : on doit faire un échange avec le banquier Maintenant tu peux en faire plein pour t’entraîner
+![](images/addition_comp a 10 perles.jpg)
 
 Passage aux chiffres : les timbres
 ==================================
@@ -130,7 +134,8 @@ Un (perle) et 1 (chiffre) c'est la même chose dix et dix cent et cent mille et 
 
 Je te mets un nombre ici et tu vas me l'écrire avec les timbres On commence toujours par les plus petits
 
-cf photo
+ 
+![](images/addition_timbres.jpg)
 
 Addition de grands nombres (4 chiffres)
 ---------------------------------------
@@ -275,10 +280,14 @@ Petits problèmes d'application
 
 Sur des cartes, un problème est posée dans un contexte et il faut retirer les informations et pratiquer l'opération sous-entendue. Exemple : "A droite il y a 8 lapins, devant il a quatre lapins. Combien il y a de lapins en tout ? "
 
+![](images/addition_devinettes.jpg)
+
 Table des doigts
 ================
 
 Cette table en forme de triangle est un autre exercice, elle montre la commutativité de l'addition. Suivre avec les doigts en partant des deux chiffres, vers le droite. Lorsqu'on est au bout soit on rejoint le milieu par la diagonale (pair), soit arrivés au bout on descend (impair) cf photo En gros le principe c'est de faire la moyenne mathématique : A+B = (2A+2B)/2
+
+![](images/addition_tables operations.jpg)
 
 Le boulier (&gt;6ans)
 =====================
@@ -294,3 +303,9 @@ Le boulier (&gt;6ans)
 -   la boule "retenue" est d'abord placée un peu décalée, puis ajoutée au groupe.
 
 -   Faire des opérations au boulier 1 648 527 + 5 875 988 = 8 534 515 La différence de plan, vertical et lecture avec 1000 en bas et unités en haut peut perturber les enfants s'ils travaillent en même temps sur papier.
+
+
+
+![](images/addition_compt a 10 barres.jpg)
+
+
