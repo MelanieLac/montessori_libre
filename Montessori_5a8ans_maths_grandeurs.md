@@ -90,3 +90,9 @@ L'unité principale de capacité c'est le litre
 En appui sur le même tableau de mesure avec les codes couleur pour les rangs ("litre" reste en noir)
 
 Sur une nouvelle bande de papier 10 grammes c'est un décalitre dal, 10 fois plus petit c'est un décilitre dl ; 100 fois plus grand c'est l'hectolitre hl, 100 fois plus petit c'est le centilitre cl ; 1000 fois plus grand c'est le kilolitre kl, 1000 fois plus petit c'est le millilitre ml.
+
+
+
+
+![](images/grandeurs_tabdeconvetecriture.jpg)
+![](images/grandeurs_tabdeconvunites.jpg)
