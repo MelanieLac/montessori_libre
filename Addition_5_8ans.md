@@ -8,7 +8,7 @@ licence: CC-BY-SA
 ---
 
 -->
-CC-BY-SA Mélanie Lacayrouze
+CC-BY-SA Mélanie Lacayrouze et Georges Madar -2017
 
 # ADDITION
 
