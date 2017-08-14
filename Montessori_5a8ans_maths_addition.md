@@ -150,9 +150,8 @@ Addition de grands nombres (4 chiffres)
 
 Constitue l'addition : 2546 + 3252 = 5798
 
-cf photo
-
 sur la gauche du tapis il y a les 2 gd nombres, les signes + et + et le résultat. L'enfant n'a pas additionné mais bien compté !
+
 
 Passage à l'écrit
 -----------------
@@ -210,6 +209,8 @@ On range les barrettes en pyramide fer à gauche, rouges d'un côté, bleues de 
 présentation
 ------------
 
+
+![](images/addition_compt a 10 barres.jpg)
 Aujourd'hui on fait la 4 (on ne commence pas par la plus petite, ni la +grande) le code couleur de l'addition c'est rouge : le matériel d'addition est rouge (fiches...) l'enfant a son cahier, sur lequel il s'exerce potu tous les ex On peut faire des carnets préimprimés (cf. <http://crapouillot-montessori.blogspot.fr/> )
 
 entraînement
@@ -306,6 +307,5 @@ Le boulier (&gt;6ans)
 
 
 
-![](images/addition_compt a 10 barres.jpg)
 
 
