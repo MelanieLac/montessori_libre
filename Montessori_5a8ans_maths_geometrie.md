@@ -86,4 +86,12 @@ Un autre point et on coupe : une demies-droite et un segment de droite
 Progression : cartes de nomenclature de géométrie
 -------------------------------------------------
 
-point ligne surface volume on met en correspondance les perles unité, barre dizaine, plaque centaine, cube de 1000
+point ligne surface volume on met en correspondance les perles unité, barre dizaine, plaque centaine, cube de 1000.
+
+
+![](images/geometrie_angles.jpg)
+![](images/geometrie_fabangles.jpg)
+![](images/geometrie_quadrilateres.jpg)
+![](images/geometrie_traceangle.jpg)
+![](images/geometrie_triangles.jpg)
+![](images/geometrie_vocab.jpg)
