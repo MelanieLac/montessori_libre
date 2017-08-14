@@ -291,6 +291,8 @@ Table des doigts
 
 Cette table en forme de triangle est un autre exercice, elle montre la commutativité de l'addition. Suivre avec les doigts en partant des deux chiffres, vers le droite. Lorsqu'on est au bout soit on rejoint le milieu par la diagonale (pair), soit arrivés au bout on descend (impair) cf photo En gros le principe c'est de faire la moyenne mathématique : A+B = (2A+2B)/2
 
+![](images/additon_table_doigts_non_renseignee.jpg)
+
 ![](images/addition_tables_operations.jpg)
 
 Le boulier (&gt;6ans)
