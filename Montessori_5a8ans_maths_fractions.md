@@ -19,15 +19,15 @@ Présentation : leçon en 3 temps
 
 -   Présentation du disque plein avec une perle Ça \[le disque\] c'est 1, c'est la même chose que ça \[la perle\]
 
--   Présentation du disque coupé en deux Ça c'est la famille des demis et moi je vais prendre un demi : on note 1, barre noire en dessous, 2. ![1 over 2](Montessori_5a8ans_maths_fractions-img001.png)
+-   Présentation du disque coupé en deux Ça c'est la famille des demis et moi je vais prendre un demi : on note 1, barre noire en dessous, 2. ![1 over 2](formules/Montessori_5a8ans_maths_fractions-img001.png)
 
--   idem disque ocupé en 3 : la famille des tiers, il y en a 3 : ![1 over 3](Montessori_5a8ans_maths_fractions-img002.png)
+-   idem disque ocupé en 3 : la famille des tiers, il y en a 3 : ![1 over 3](formules/Montessori_5a8ans_maths_fractions-img002.png)
 
--   idem disque coupé en 4 : la famille des quarts, il y en a 4. ![1 over 4](Montessori_5a8ans_maths_fractions-img003.png)
+-   idem disque coupé en 4 : la famille des quarts, il y en a 4. ![1 over 4](formules/Montessori_5a8ans_maths_fractions-img003.png)
 
 -   5, 6 7 ... jusqu'à 10, un dixième.
 
-Dans la famille des huitièmes j'en voudrais 2 : deux huitièmes ![2 over 8 ](Montessori_5a8ans_maths_fractions-img004.png)
+Dans la famille des huitièmes j'en voudrais 2 : deux huitièmes ![2 over 8 ](formules/Montessori_5a8ans_maths_fractions-img004.png)
 
 On partage une feuille en 8 : chaque part fait un huitième
 
@@ -40,21 +40,21 @@ Il existe un matériel Montessori avec des triangles et des rectangles pour pré
 Retour avec les disques
 -----------------------
 
-L'a demande ![2 over 5](Montessori_5a8ans_maths_fractions-img005.png) , ![1 over 5](Montessori_5a8ans_maths_fractions-img006.png) en rassemblant les secteurs on construit l’écriture : ![2 over 5 + 1 over 5 = 3 over 5](Montessori_5a8ans_maths_fractions-img007.png)   
+L'a demande ![2 over 5](formules/Montessori_5a8ans_maths_fractions-img005.png) , ![1 over 5](formules/Montessori_5a8ans_maths_fractions-img006.png) en rassemblant les secteurs on construit l’écriture : ![2 over 5 + 1 over 5 = 3 over 5](formules/Montessori_5a8ans_maths_fractions-img007.png)   
 
-De même , l'a demande trois septième et deux septièmes : ![ 3 over 7 + 2 over 7 = 5 over 7](Montessori_5a8ans_maths_fractions-img008.png)
+De même , l'a demande trois septième et deux septièmes : ![ 3 over 7 + 2 over 7 = 5 over 7](formules/Montessori_5a8ans_maths_fractions-img008.png)
 
  
 
 On met le dénominateur ( celui qui donne le nom) en bas d'abord : "le nom de la famille" avant le numérateur idem six neuvièmes moins quatre neuvièmes
 
-![6 over 9 – 4 over 9 = 2 over 9](Montessori_5a8ans_maths_fractions-img009.png)
+![6 over 9 – 4 over 9 = 2 over 9](formules/Montessori_5a8ans_maths_fractions-img009.png)
 
 Puis :
 
-![3 times {2 over 9} = 6 over 9](Montessori_5a8ans_maths_fractions-img010.png)
+![3 times {2 over 9} = 6 over 9](formules/Montessori_5a8ans_maths_fractions-img010.png)
 
-![8 over 10 : 2 = 4 over 10](Montessori_5a8ans_maths_fractions-img011.png)
+![8 over 10 : 2 = 4 over 10](formules/Montessori_5a8ans_maths_fractions-img011.png)
 
  
 
@@ -88,9 +88,9 @@ Disques partagés , papier, feutre, cahier de l'élève
 Présentation de base
 --------------------
 
-Dans un disque divisé en tiers, on enlève un tiers et on recherche ce qui pourrait convenir l'e prend successivement tous les autres disques fractionnés et essaye de completer On obtient : (avec les contreparties en secteurs de disques) ex : ![1 over 3 = 3 over 9](Montessori_5a8ans_maths_fractions-img012.png)
+Dans un disque divisé en tiers, on enlève un tiers et on recherche ce qui pourrait convenir l'e prend successivement tous les autres disques fractionnés et essaye de completer On obtient : (avec les contreparties en secteurs de disques) ex : ![1 over 3 = 3 over 9](formules/Montessori_5a8ans_maths_fractions-img012.png)
 
-Puis ![1 over 3 = 3 over 9 = 2 over 6](Montessori_5a8ans_maths_fractions-img013.png) , remis dans l'ordre par l'adulte éventuellement, ![ 1 over 3 = 2 over 6 = 3 over 9](Montessori_5a8ans_maths_fractions-img014.png)
+Puis ![1 over 3 = 3 over 9 = 2 over 6](formules/Montessori_5a8ans_maths_fractions-img013.png) , remis dans l'ordre par l'adulte éventuellement, ![ 1 over 3 = 2 over 6 = 3 over 9](formules/Montessori_5a8ans_maths_fractions-img014.png)
 
 Suite
 -----
@@ -101,7 +101,7 @@ Suite
 
 Il dessine aussi les disques divisés en tiers, quarts... en écrivant dans chaque secteur la fraction correspondante poru cela poser sur une grande fueille blanche, et dessiner le contoru au crayon il garde une trace dans osn cahier (recopier les égalités et équivalences)
 
-On obtient avec le demi : ![1 over 2 = 2 over 4 = 4 over 8 = 5 over 10](Montessori_5a8ans_maths_fractions-img015.png)
+On obtient avec le demi : ![1 over 2 = 2 over 4 = 4 over 8 = 5 over 10](formules/Montessori_5a8ans_maths_fractions-img015.png)
 
 Pour ces exercices on peut encourager l'enfant à avoir un environnement organisé, vu le nb de matériel nécessaire et l'espace nécessaire pour faire le contour, écrire...
 
@@ -122,9 +122,9 @@ Présentation
 
 -   manipuler
 
--   additionner : je veux ![5 over 3](Montessori_5a8ans_maths_fractions-img016.png) , ça fait ![2 over 3 + 3 over 3](Montessori_5a8ans_maths_fractions-img017.png)
+-   additionner : je veux ![5 over 3](formules/Montessori_5a8ans_maths_fractions-img016.png) , ça fait ![2 over 3 + 3 over 3](formules/Montessori_5a8ans_maths_fractions-img017.png)
 
-On calcule ![5 over 3 + 2 over 3 = 7 over 3](Montessori_5a8ans_maths_fractions-img018.png) - énoncer la règle d'addition
+On calcule ![5 over 3 + 2 over 3 = 7 over 3](formules/Montessori_5a8ans_maths_fractions-img018.png) - énoncer la règle d'addition
 
 Quand on a des fractions de la même famille, pour les ajouter on ajoute les numérateurs
 
@@ -141,7 +141,7 @@ le même
 Présentation
 ------------
 
-On demande à l'e tout ce qui est égal à ![1=1 over 1 1 over 1=2 over 2=3 over 3=4 over 4=5 over 5=6 over 6=7 over 7=8 over 8=9 over 9=10 over 10](Montessori_5a8ans_maths_fractions-img019.png)
+On demande à l'e tout ce qui est égal à ![1=1 over 1 1 over 1=2 over 2=3 over 3=4 over 4=5 over 5=6 over 6=7 over 7=8 over 8=9 over 9=10 over 10](formules/Montessori_5a8ans_maths_fractions-img019.png)
 
 Suite : voir décimaux
 =====================
