@@ -22,36 +22,29 @@ Construction du nombre
 
 tu vas me construire ce nombre (donné par l'adulte, avec 4 étiquettes séparées une pour les unités, une dizaine, une centaine un millier) plateau + banque : on commence toujours par les unités
 
--   Magie du nombre on superpose les 4 étiquettes et on les fait glisser l'une sur l'autre avec un mouvement de doigt pour faire apparaître le nombre
+- Magie du nombre on superpose les 4 étiquettes et on les fait glisser l'une sur l'autre avec un mouvement de doigt pour faire apparaître le nombre
 
--Le balluchon de l'addition :  on réunit 3 grands nombres dans un balluchon, on constate que c'est lourd.
+- Le balluchon de l'addition :  on réunit 3 grands nombres dans un balluchon, on constate que c'est lourd.
 
--Finalisation on transcrit le nombre avec les grandes étiquettes un dix, deux dix,… huit dix ... pas nécessaire d’avoir fait les tables de Séguin
-
+- Finalisation on transcrit le nombre avec les grandes étiquettes un dix, deux dix,… huit dix ... pas nécessaire d’avoir fait les tables de Séguin
 regarde : sur ton plateau il y avait ça on a ajouté celui-là et celui -là quand on ajoute on met le signe + on arrive à l'écriture : 3233 + 4312 + 2143 = 9688
-
 S'il manque une unité d'un rang on ne corrige pas
 
--   Écriture : si l'addition est exacte on le met sur un petit carnet
+- Écriture : si l'addition est exacte on le met sur un petit carnet
 
 Complexification de l'exercice
 ------------------------------
 
 -Je vais te mettre quelques perles, avec l'aide des symboles (étiquettes), on va écrire combien il y a de perles D'abord 8, 6, Puis plus de 10 : 14 unités. “là tu ne peux pas” . On va voir le banquier, on pose devant la banque puis 17 barres de 10 il faut faire l'échange 10x10 contre 100
-
 -Puis 800
-
 -Puis 14 x 100, 10 cent ça fait un mille, magie du nombre : 1400
 
 Addition dynamique
 ------------------
 
 3 enfants construction des nombres 2354, 2567, 1773 avec la banque on vérifie : il en est demandé combien ici... (vérification de l'erreur) faites la magie du nombre de vos plateaux
-
 -   un enfant reste avec les 3 plateaux
-
 -   balluchon de l'addition : c'est lourd !
-
 -   tu l'ouvres et tu écris combien il y a : échanges avec la banque : unités, dizaines, centaines... 2354+2567+1773 = 6694 Tu me lis la belle phrase mathématique que tu viens d'écrire
 
 Le petit serpent
@@ -250,7 +243,7 @@ autre outil de mémorisation des tables d'addition - on parcourt la table avec d
 Les combinaisons d'addition
 ===========================
 
-entraînement
+Entraînement
 ------------
 
 l'e tire 10 cartes au hasard. Le top est d'avoir une boite au nom de l'enfant pour ranger s'il n'a pas fini en une fois (ce qui n'arrive pas) dans le tableau, il va résoudre avec les doigts et note les résultats sur son cahier \#\# vérification à la fin avec la table de contrôle. Ainsi l'enfant relit deux fois le résultat une fois sur son cahier, une fois sur la table.
