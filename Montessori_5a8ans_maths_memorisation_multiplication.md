@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Addition 5-8 ans
+description: Cours Montessori la mémorisation de la multiplication  5-8 ans
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+CC-BY-SA Mélanie Lacayrouze et Georges Madar -2017
+
 MÉMORISATION DES TABLES DE MULTIPLICATION
 =========================================
 
