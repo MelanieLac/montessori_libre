@@ -71,7 +71,7 @@ Vérification
 ------------
 
 on va regarder si le serpent à la même longueur. Mettre les barrettes dorées en position Maintenant on va regarder si on ne s'est pas trompé en comptant les perles : On arrive à 9+1=10, 8+2=10...
-![](images/addition_serpent dore.jpg)
+![](images/addition_serpent_dore.jpg)
 
 Serpent niveau 2 - serpent positif avec change
 ==============================================
@@ -93,7 +93,7 @@ vérification
 ------------
 
 on va regarder si le serpent à la même longueur. mettre les barrettes dorées en position verticale Maintenant on va regarder si on ne s'est pas trompé en comptant les perles : On aligne les perles de l'ancien serpent sur les dizaines du nouveau On arrive à 9 contre 10, mais comme on n'a pas de 1 : on doit faire un échange avec le banquier Maintenant tu peux en faire plein pour t’entraîner
-![](images/addition_comp a 10 perles.jpg)
+![](images/addition_comp_a_10_perles.jpg)
 
 Passage aux chiffres : les timbres
 ==================================
@@ -135,7 +135,6 @@ Un (perle) et 1 (chiffre) c'est la même chose dix et dix cent et cent mille et 
 Je te mets un nombre ici et tu vas me l'écrire avec les timbres On commence toujours par les plus petits
 
  
-![](images/addition_timbres.jpg)
 
 Addition de grands nombres (4 chiffres)
 ---------------------------------------
@@ -151,6 +150,9 @@ Addition de grands nombres (4 chiffres)
 Constitue l'addition : 2546 + 3252 = 5798
 
 sur la gauche du tapis il y a les 2 gd nombres, les signes + et + et le résultat. L'enfant n'a pas additionné mais bien compté !
+
+
+![](images/addition_timbres.jpg)
 
 
 Passage à l'écrit
@@ -210,7 +212,8 @@ présentation
 ------------
 
 
-![](images/addition_compt a 10 barres.jpg)
+![](images/addition_compt_a_10_barres.jpg)
+
 Aujourd'hui on fait la 4 (on ne commence pas par la plus petite, ni la +grande) le code couleur de l'addition c'est rouge : le matériel d'addition est rouge (fiches...) l'enfant a son cahier, sur lequel il s'exerce potu tous les ex On peut faire des carnets préimprimés (cf. <http://crapouillot-montessori.blogspot.fr/> )
 
 entraînement
@@ -288,7 +291,7 @@ Table des doigts
 
 Cette table en forme de triangle est un autre exercice, elle montre la commutativité de l'addition. Suivre avec les doigts en partant des deux chiffres, vers le droite. Lorsqu'on est au bout soit on rejoint le milieu par la diagonale (pair), soit arrivés au bout on descend (impair) cf photo En gros le principe c'est de faire la moyenne mathématique : A+B = (2A+2B)/2
 
-![](images/addition_tables operations.jpg)
+![](images/addition_tables_operations.jpg)
 
 Le boulier (&gt;6ans)
 =====================
