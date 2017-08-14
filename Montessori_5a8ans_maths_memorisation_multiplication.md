@@ -183,6 +183,13 @@ par ex. : après les 5 on arrive à une fois 6, deux fois 6,.... six fois 6, pui
 
 On voit apparaitre avec cette disposition les carrés.
 
+
+![](images/pythagore.jpg)
+![](images/pythagore_avtriangles.jpg)
+![](images/pythagore_avtriangles2.jpg)
+
+
+
 Multiplication géométrique : rectangles découpés dans du papier quadrillé
 =========================================================================
 
