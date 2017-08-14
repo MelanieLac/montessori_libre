@@ -157,3 +157,14 @@ On demande à l'e tout ce qui est égal à ![1=1 over 1 1 over 1=2 over 2=3 over
 
 Suite : voir décimaux
 =====================
+
+
+![](images/fractions_addition.jpg)
+![](images/fractions_additions.jpg)
+![](images/fractions_calculsequivalences.jpg)
+![](images/fractions_disques_partages.jpg)
+![](images/fractions_equdesurface.jpg)
+![](images/fractions_equivalences.jpg)
+![](images/fractions_passageauxperles.jpg)
+![](images/fractions_perlescodecouleur.jpg)
+![](images/fractions_presentation.jpg)
