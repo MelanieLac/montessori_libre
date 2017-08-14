@@ -363,3 +363,11 @@ Pour introduire la division par des situations de partage, il faut donc changer 
 Pour éviter des rangs oubliés : appuyer fortement le discours sur le système décimal :
 
 "Je partage 44 centaines en 37 parts : combien je peux en donner à chacun : une centaine"
+
+![](images/division_1div2chavecperles.jpg)
+![](images/division_gddivavecperles.jpg)
+![](images/division_par3avplateaux.jpg)
+![](images/division_par3avtimbres.jpg)
+![](images/division_tabledoigtsrenseignee.jpg)
+![](images/division_tabledoigtsrenseigneeetnonr.jpg)
+![](images/division_timbresacrestes.jpg)
