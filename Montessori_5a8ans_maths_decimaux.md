@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Addition 5-8 ansdécimaux 5-8 ans
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+CC-BY-SA Mélanie Lacayrouze et Georges Madar -2017
+
 DÉCIMAUX
 ========
 
