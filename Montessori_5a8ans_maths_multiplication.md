@@ -289,8 +289,8 @@ x   210
 
  
 
-Ce qui est intéressant avec cette méthode Montessori et l'outil du damier, c'est que cela explique le coupe du décalage dans les multiplications à plus d'1 chiffre au multiplicateur. On apprend en système conventionnel qu'il faut "décaler la deuxième ligne d'un cran, la 3e de deux crans" ce qui est une recette. Cette recette peut être acceptée et appliquée sans pb par l'e, mais selon les e elle peut aussi être source de confusion, et d'erreurs due aux oublis de ces décalages. Avec les code couleur adopté par Montessori et repris sur le damier, on peut se libérer : c'est une dizaine et c'est logique, c'est une case bleue, une centaine : case rouge. On sait ou on en est.. Dans les multiplications impliquant des nombres avec un 0, cela facilite aussi la vision, le positionnement dans le calcul : la couleur des cases est un repère permanent pour la position du nb et l'avancement du calcul.
+__Ce qui est intéressant avec cette méthode Montessori et l'outil du damier, c'est que cela explique le coupe du décalage dans les multiplications à plus d'1 chiffre au multiplicateur. On apprend en système conventionnel qu'il faut "décaler la deuxième ligne d'un cran, la 3e de deux crans" ce qui est une recette. Cette recette peut être acceptée et appliquée sans pb par l'e, mais selon les e elle peut aussi être source de confusion, et d'erreurs due aux oublis de ces décalages. Avec les code couleur adopté par Montessori et repris sur le damier, on peut se libérer : c'est une dizaine et c'est logique, c'est une case bleue, une centaine : case rouge. On sait ou on en est.. Dans les multiplications impliquant des nombres avec un 0, cela facilite aussi la vision, le positionnement dans le calcul : la couleur des cases est un repère permanent pour la position du nb et l'avancement du calcul.__
 
 Dès que l'e à fait les multiplications avec les perles, il passe aux multiplications par 10.
 
-CC-BY-SA Mélanie Lacayrouze et Georges Madar 2017
+
