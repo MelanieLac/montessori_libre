@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Addition 5-8 ans
+description: Cours Montessori addition 5-8 ans
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+CC-BY-SA Mélanie Lacayrouze et Georges Madar -2017
+
 Présentation de l'addition (fin GS, CP)
 =======================================
 
